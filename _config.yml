@@ -47,7 +47,7 @@ plugins:
 disqus:
   shortname: lokesh1729
 
-google_analytics: UA-122847285-1
+google_analytics: UA-122847285-2
 show_excerpts: false
 # Exclude from processing.
 # The following items will not be processed, by default.
