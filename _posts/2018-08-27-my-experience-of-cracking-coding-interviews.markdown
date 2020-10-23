@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "My experience of cracking coding interviews"
-date: 2018-08-27 13:11:27 +0530
-categories: [coding interviews, coding]
-tags: [coding interviews, coding]
+date: 2018-08-27
+categories: 
+  - coding
+tags: 
+  - coding interviews
+  - coding
 ---
 
 # Cracking Coding Interviews

@@ -43,6 +43,12 @@ minima:
 # Build settings
 theme: minima
 plugins:
+  - jekyll-archives
+  # - jekyll-archives:
+      # enabled:
+      #   - categories
+      #   - tags
+      #   - year
   - jekyll-feed
 disqus:
   shortname: lokesh1729

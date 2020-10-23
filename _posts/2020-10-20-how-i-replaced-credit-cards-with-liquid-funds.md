@@ -2,8 +2,10 @@
 layout: post
 title: "How I replaced credit cards with liquid mutual funds"
 date: 2020-10-20
-categories: [personal]
-tags: [finance]
+categories:
+  - personal
+tags: 
+  - finance
 ---
 
 This post is about personal finance and mostly suitable for people who live in India. Many of us (including me in the past) are using credit cards. There are pros and cons of using them. For me, I had bad experience using them. The reasons are
