@@ -5,9 +5,9 @@ date: 2020-10-23
 categories:
   - coding
 tags:
-  - coding
   - python
   - django
+  - celery
 ---
 
 Celery is an asynchronous task queue which integrates nicely with [django](https://www.djangoproject.com/).  In this post, I am not going to write a tutorial on how to setup and use celery, there are many articles for it already. In this post, I am going to discuss about some of the advanced features of celery I used in some of the projects I worked.

@@ -6,7 +6,6 @@ categories:
   - coding
 tags: 
   - coding interviews
-  - coding
 ---
 
 # Cracking Coding Interviews

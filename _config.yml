@@ -44,14 +44,15 @@ minima:
 theme: minima
 plugins:
   - jekyll-archives
-  # - jekyll-archives:
-      # enabled:
-      #   - categories
-      #   - tags
-      #   - year
   - jekyll-feed
 disqus:
   shortname: lokesh1729
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
 
 google_analytics: UA-122847285-2
 show_excerpts: false
